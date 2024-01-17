@@ -18,7 +18,7 @@ const App: React.FC = () => {
       style={{ opacity: isVisible ? 1 : 0 }}
       className="h-full ease-in-out transition-opacity duration-1000"
     >
-      <main className="px-6 w-screen max-w-[627px] mx-auto pt-20 flex flex-col h-full gap-8">
+      <main className="px-6 w-screen max-w-[579px] mx-auto pt-20 flex flex-col h-full gap-8">
         <div className="text-center">
           <h1 className="underline decoration-rose-600">{content.title}</h1>
           <div className="font-medium text-lg text-stone-700">{content.subtitle}</div>
