@@ -35,7 +35,7 @@ const App: React.FC = () => {
           </a>
           <a
             href={`mailto:${content.mailto}`}
-            className="self-center max-w-max  px-4 py-2 underline text-sm "
+            className="self-center max-w-max mt-4 underline text-xs "
           >
             {content.mailCTA}
           </a>
