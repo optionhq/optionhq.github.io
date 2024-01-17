@@ -5,9 +5,9 @@ Designed with DAOs in mind, it's Web3 native, open-source, and permissionless.
 
 - Anyone can make a point
 - Anyone can make a counterpoint (I don't think this point is true)
-- Anyone can raise an objection (I don't think this point counts)
+- Anyone can raise an objection (I don't think this counterpoint counts)
 - Anyone can offer an alternative (I think this is true instead)
 
 What emerges is an elegant and intuitive process for collective sense-making.
 
-The game is available now and free to play: all you need is a [Farcaster](https://www.farcaster.xyz/) wallet.
+The game is available now and free to play: all you need is a [Farcaster](https://www.farcaster.xyz/) account.
