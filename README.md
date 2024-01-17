@@ -9,3 +9,5 @@ To get started with "The Negation Game", you can visit the official website at [
 ## Development
 
 The landing page is statically generated from React & TypeScript using Vite. Site content can be updated in the `content.ts` and `assets/md/body.md` files. The `Md` component is used to render markdown files dynamically.
+
+To deploy the latest version to 'github pages', run the script `yarn deploy`
